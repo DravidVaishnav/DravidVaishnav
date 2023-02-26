@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **vaishnavdravid21@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gkiqBSr2HGr9D7rYo7hmfwM1XHFRNOv4/view?usp=share_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dravidvaishnav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="dravidvaishnav" height="30" width="40" /></a>
