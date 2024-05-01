@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently pursuing 4th year Computer Engineering at Charusat
 
-- 🌱 I’m currently pursuing my internship in Machine Learning
+- 🌱 I’m currently pursuing my internship as an Machine Learning Intern
 
 - 📫 How to reach me **vaishnavdravid21@gmail.com**
 
