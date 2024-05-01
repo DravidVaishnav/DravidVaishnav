@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dravid Vaishnav</h1>
-<h3 align="center">A passionate Data Science enthusiast</h3>
+<h3 align="center">A Data Science Passionate</h3>
 
 - 🔭 I’m currently pursuing 4th year Computer Engineering at Charusat
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently pursuing my internship in Machine Learning
 
 - 📫 How to reach me **vaishnavdravid21@gmail.com**
 
